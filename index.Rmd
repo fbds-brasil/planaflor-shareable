@@ -1,0 +1,11 @@
+---
+title: Projeto PlanaFlor-Norad
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Mudança na vegetação nativa entre os anos de 2008 e 2019
+
+<img src="./assets/gif-veg-nativa.gif" alt="gif"  width="1000" />
