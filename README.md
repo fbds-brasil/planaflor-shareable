@@ -1,3 +1,3 @@
-# shareable
+# planaflor-shareable
 
-Repositório com produtos compartilháveis do Projeto PlanaFlor-Norad: https://planaflor.github.io/shareable/
+Repositório com produtos compartilháveis do Projeto PlanaFlor-Norad: https://fbds-brasil.github.io/planaflor-shareable/
